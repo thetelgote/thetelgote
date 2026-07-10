@@ -147,8 +147,12 @@
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=thetelgote&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=thetelgote&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=6&margin-w=8&margin-h=8"/>
 </div>
+
+<!-- If trophies don't load above (the service is occasionally rate-limited),
+     wait a minute and hard-refresh the page — the image is cached once it
+     generates successfully and won't need to regenerate on every page load. -->
 
 <br/>
 
