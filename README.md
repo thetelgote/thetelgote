@@ -135,24 +135,43 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=thetelgote&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thetelgote&layout=compact&theme=tokyonight&hide_border=true" width="30%"/>
-
 <img src="https://streak-stats.demolab.com/?user=thetelgote&theme=tokyonight&hide_border=true" width="70%"/>
+
+<br/><br/>
+
+<!-- Lightweight stat badges — don't depend on the shared, often-rate-limited
+     github-readme-stats API quota. Swap back to live cards once self-hosted. -->
+<img src="https://img.shields.io/badge/Repos-24-1BFFFF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Contributions-403-2E3192?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode%20%2B%20GFG-150%2B%20Solved-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+
+<!-- Want real, live language percentages instead of a static list?
+     Once you self-host github-readme-stats (Option A), the top-langs
+     card will pull your actual repo breakdown automatically. -->
 
 </div>
 
 <br/>
 
-## 🏆 Trophies
+## 🏆 Highlights
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=thetelgote&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=6&margin-w=8&margin-h=8"/>
-</div>
 
-<!-- If trophies don't load above (the service is occasionally rate-limited),
-     wait a minute and hard-refresh the page — the image is cached once it
-     generates successfully and won't need to regenerate on every page load. -->
+<img src="https://img.shields.io/badge/Longest_Streak-3_Days-orange?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Active_Since-Jun_2024-blue?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deployed_Projects-3-brightgreen?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+<!-- Live animated trophy cards can go back here once self-hosted (Option A) —
+     the public github-profile-trophy demo server is frequently rate-limited (402). -->
+
+</div>
 
 <br/>
 
