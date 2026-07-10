@@ -1,38 +1,46 @@
 <div align="center">
 
 <!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=220&section=header&text=Sushant%20Ramkrushna%20Telgote&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Software%20Engineer%20%7C%20MERN%20%C2%B7%20Python%2FAI%20%C2%B7%20DevOps&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:1BFFFF&height=220&section=header&text=Sushant%20Ramkrushna%20Telgote&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Software%20Engineer%20%7C%20MERN%20%C2%B7%20Python%2FAI%20%C2%B7%20DevOps&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing animation tagline -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=1BFFFF&center=true&vCenter=true&width=600&lines=Building+full-stack+products+with+MERN+%2B+Python%2FAI;150%2B+DSA+problems+solved+on+LeetCode+%26+GFG;Turning+ideas+into+deployed%2C+working+software;Open+to+Full+Stack+%2F+Python-AI+%2F+DevOps+roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=1BFFFF&background=0D1117&center=true&vCenter=true&width=650&height=40&lines=Building+full-stack+products+with+MERN+%2B+Python%2FAI;150%2B+DSA+problems+solved+on+LeetCode+%26+GFG;Turning+ideas+into+deployed%2C+working+software;Open+to+Full+Stack+%2F+Python-AI+%2F+DevOps+roles" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Social / contact badges -->
 <a href="mailto:sushanttelgote4@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836" />
 </a>
 <a href="https://linkedin.com/in/sushant-ramkrushna-telgote-17403120b">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=1BFFFF" />
 </a>
 <a href="https://github.com/thetelgote">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
 <!-- Profile view counter + status stickers -->
-<img src="https://komarev.com/ghpvc/?username=thetelgote&style=for-the-badge&color=1BFFFF&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge" />
-<img src="https://img.shields.io/badge/B.Tech%20CS-2026%20Grad-blueviolet?style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=thetelgote&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS&labelColor=1BFFFF" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-0D1117?style=for-the-badge&labelColor=0D1117&color=00FF9C" />
+<img src="https://img.shields.io/badge/B.Tech%20CS-2026%20Grad-0D1117?style=for-the-badge&labelColor=0D1117&color=7B61FF" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:1BFFFF&height=4&width=1000" width="100%"/>
 
 </div>
 
 <br/>
 
-## 🚀 About Me
+<div align="center">
+<img src="https://img.shields.io/badge/🚀_About_Me-0D1117?style=for-the-badge&labelColor=0D1117&color=1BFFFF"/>
+</div>
+
+<br/>
 
 - 🎓 B.Tech in Computer Science, **SGGS Institute of Engineering & Technology**, Nanded — Class of 2026
 - 💻 Building production-style full-stack apps with **MERN**, **FastAPI**, and **GenAI/RAG** pipelines
@@ -43,7 +51,11 @@
 
 <br/>
 
-## 🛠️ Tech Stack
+<div align="center">
+<img src="https://img.shields.io/badge/🛠️_Tech_Stack-0D1117?style=for-the-badge&labelColor=0D1117&color=1BFFFF"/>
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -59,21 +71,21 @@
 
 **Languages**
 <br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=ED8B00"/>
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=1572B6"/>
 
 </td>
 <td valign="top" width="50%">
 
 **Frontend**
 <br/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Framer_Motion-black?style=flat-square&logo=framer&logoColor=blue"/>
-<img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4"/>
+<img src="https://img.shields.io/badge/Framer_Motion-0D1117?style=flat-square&logo=framer&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Chart.js-0D1117?style=flat-square&logo=chartdotjs&logoColor=FF6384"/>
 
 </td>
 </tr>
@@ -82,23 +94,23 @@
 
 **Backend & AI**
 <br/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=node.js&logoColor=339933"/>
+<img src="https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=009688"/>
+<img src="https://img.shields.io/badge/Flask-0D1117?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=langchain&logoColor=1C3C3C"/>
+<img src="https://img.shields.io/badge/Gemini_AI-0D1117?style=flat-square&logo=googlegemini&logoColor=8E75B2"/>
 
 </td>
 <td valign="top" width="50%">
 
 **Database & Cloud**
 <br/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/FAISS-005571?style=flat-square"/>
+<img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248"/>
+<img src="https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/FAISS-0D1117?style=flat-square&color=0D1117"/>
 
 </td>
 </tr>
@@ -106,7 +118,11 @@
 
 <br/>
 
-## 📌 Featured Projects
+<div align="center">
+<img src="https://img.shields.io/badge/📌_Featured_Projects-0D1117?style=for-the-badge&labelColor=0D1117&color=1BFFFF"/>
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -131,26 +147,30 @@
 
 <br/>
 
-## 📊 GitHub Stats
+<div align="center">
+<img src="https://img.shields.io/badge/📊_GitHub_Stats-0D1117?style=for-the-badge&labelColor=0D1117&color=1BFFFF"/>
+</div>
+
+<br/>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=thetelgote&theme=tokyonight&hide_border=true" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=thetelgote&theme=tokyonight&hide_border=true&background=0D1117" width="70%"/>
 
 <br/><br/>
 
 <!-- Lightweight stat badges — don't depend on the shared, often-rate-limited
      github-readme-stats API quota. Swap back to live cards once self-hosted. -->
-<img src="https://img.shields.io/badge/Repos-24-1BFFFF?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Contributions-403-2E3192?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/LeetCode%20%2B%20GFG-150%2B%20Solved-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Repos-24-0D1117?style=for-the-badge&labelColor=0D1117&color=1BFFFF&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Contributions-403-0D1117?style=for-the-badge&labelColor=0D1117&color=7B61FF&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode%20%2B%20GFG-150%2B%20Solved-0D1117?style=for-the-badge&labelColor=0D1117&color=FFA116&logo=leetcode&logoColor=white"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=1572B6"/>
 
 <!-- Want real, live language percentages instead of a static list?
      Once you self-host github-readme-stats (Option A), the top-langs
@@ -160,13 +180,17 @@
 
 <br/>
 
-## 🏆 Highlights
+<div align="center">
+<img src="https://img.shields.io/badge/🏆_Highlights-0D1117?style=for-the-badge&labelColor=0D1117&color=1BFFFF"/>
+</div>
+
+<br/>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Longest_Streak-3_Days-orange?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Active_Since-Jun_2024-blue?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Deployed_Projects-3-brightgreen?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Longest_Streak-3_Days-0D1117?style=for-the-badge&labelColor=0D1117&color=FFA116&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Active_Since-Jun_2024-0D1117?style=for-the-badge&labelColor=0D1117&color=1BFFFF&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deployed_Projects-3-0D1117?style=for-the-badge&labelColor=0D1117&color=00FF9C&logo=vercel&logoColor=white"/>
 
 <!-- Live animated trophy cards can go back here once self-hosted (Option A) —
      the public github-profile-trophy demo server is frequently rate-limited (402). -->
@@ -175,18 +199,38 @@
 
 <br/>
 
-## 🐍 Contribution Snake
+<div align="center">
+<img src="https://img.shields.io/badge/📈_Activity_Graph-0D1117?style=for-the-badge&labelColor=0D1117&color=1BFFFF"/>
+</div>
+
+<br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/thetelgote/thetelgote/output/github-contribution-grid-snake.svg" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thetelgote&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=1BFFFF&line=1BFFFF&point=7B61FF" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://img.shields.io/badge/🐍_Contribution_Snake-0D1117?style=for-the-badge&labelColor=0D1117&color=1BFFFF"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/thetelgote/thetelgote/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:1BFFFF&height=4&width=1000" width="100%"/>
+
+<br/><br/>
+
 ### 💬 Let's connect — always open to interesting conversations about full-stack, AI, and DevOps!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1BFFFF,100:2E3192&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1BFFFF,50:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
 
 </div>
